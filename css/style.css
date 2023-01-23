@@ -19,7 +19,9 @@
 
 }
 
-.flex-container{
+/*QUI COMINCIA HEADER TOP*/
+
+.nav{
     display: flex;
     justify-content: center;
     background-color: yellow;
@@ -55,4 +57,21 @@ li{
 .login{
     width: 20%;
     text-align: right;
+}
+
+/*QUI COMINCIA HEADER BOT*/
+
+.header_bot{
+    display: flex;
+    background-color: blue;
+    justify-content: center;
+    padding: 40px
+   
+}
+
+.container{
+    height: 400px;
+    width: 800px;
+    background-color: pink;
+
 }
