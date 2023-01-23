@@ -75,3 +75,32 @@ li{
     background-color: pink;
 
 }
+
+/*QUI COMINCIA MAIN*/
+
+section{
+    padding: 30px 0px;
+}
+
+.schemi{
+    display: flex;
+    width: 1170px;
+    margin: auto;
+    }
+
+
+.immagine{
+    height: 400px;
+    width: 60%;
+    background-color: lightblue;
+}
+
+.descrizione{
+    height: 400px;
+    width: 40%;
+    background-color: green;
+}
+
+.grigio{
+    background-color: lightgray;
+}
