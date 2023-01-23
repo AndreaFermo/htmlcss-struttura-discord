@@ -111,3 +111,32 @@ section{
     margin: auto;
     background-color: lightgreen;
 }
+
+
+/*QUI COMINCIA FOOTER*/
+
+
+.footertop{
+    background-color: black;
+}
+
+.flex-box{
+    display: flex;
+    height: 500px;
+    width: 1170px;
+    margin: auto;
+}
+
+.posto{
+    background-color: lightcoral;
+    width: 40%;
+    margin: 3px 0px;
+}
+
+.altro{
+    background-color: darkcyan;
+    width: 20%;
+    margin: 3px 0px;
+    
+}
+
