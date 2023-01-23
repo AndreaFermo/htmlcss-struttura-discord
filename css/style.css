@@ -104,3 +104,10 @@ section{
 .grigio{
     background-color: lightgray;
 }
+
+.contenuti{
+    height: 500px;
+    width: 1170px;
+    margin: auto;
+    background-color: lightgreen;
+}
