@@ -3,3 +3,56 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/*debug*/
+
+
+
+
+
+
+/*css*/
+
+.header_top{
+    background-color: aquamarine;
+    padding: 10px;
+
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    background-color: yellow;
+    height: auto;
+    width: 1170px;
+    margin: auto;
+
+}
+
+.tratteggiato{
+    border: 3px dashed black;
+    padding: 15px;
+}
+
+.logo.tratteggiato{
+    width: 20%;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    list-style: none;
+}
+
+
+li{
+    display: inline-block;
+    margin: 0px 10px;
+    
+}
+
+.login{
+    width: 20%;
+    text-align: right;
+}
