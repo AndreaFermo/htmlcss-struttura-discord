@@ -118,25 +118,54 @@ section{
 
 .footertop{
     background-color: black;
+    margin-bottom: 3px;
 }
 
 .flex-box{
     display: flex;
     height: 500px;
     width: 1170px;
-    margin: auto;
+    margin:  auto;
 }
 
 .posto{
     background-color: lightcoral;
     width: 40%;
-    margin: 3px 0px;
+    margin: 5px 0px 20px;
 }
 
 .altro{
     background-color: darkcyan;
     width: 20%;
-    margin: 3px 0px;
+    margin: 5px 0px 20px;
     
 }
 
+.footerbot{
+    background-color: black;
+    margin-bottom: 3px;
+    padding-top: 20px;
+} 
+
+.registrazione{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1170px;
+    margin: auto;
+    background-color: turquoise;
+    
+    
+}
+
+.logobot{
+    background-color: antiquewhite;
+    padding: 5px;
+    margin: 10px 0px;
+}
+
+.bottone{
+    background-color: antiquewhite;
+    padding: 5px;
+    margin: 10px 0px;
+}
